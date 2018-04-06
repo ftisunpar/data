@@ -1,1 +1,1646 @@
-
+[
+    {
+      "kode": "AIF181101",
+      "nama": "Computational Thinking",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": []
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "AIF181103",
+      "namaMatkul": "Matematika Dasar",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": []
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "AIF181105",
+      "namaMatkul": "Pengantar Informatika",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "AIF181107",
+      "namaMatkul": "Matematika Diskret",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "MKU170130",
+      "namaMatkul": "Bahasa Indonesia",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "MKU170110",
+      "namaMatkul": "Pendidikan Kewarganegaraan",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "MKU170120",
+      "namaMatkul": "Logika",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 1
+    },
+    {
+      "kodeMatkul": "AIF181100",
+      "namaMatkul": "Dasar Pemograman",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "AIF181202",
+      "namaMatkul": "Arsitektur dan Organisasi Komputer",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "AIF181104",
+      "namaMatkul": "Logika Informatika",
+      "prasyarat": {  
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "AIF181106",
+      "namaMatkul": "Matriks dan Ruang Vektor",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "MKU170240",
+      "namaMatkul": "Etika",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "MKU170250",
+      "namaMatkul": "Pancasila",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 2
+    },
+    {
+      "kodeMatkul": "AIF182101",
+      "namaMatkul": "Algoritma Struktur Data",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "AIF182103",
+      "namaMatkul": "Struktur Diskret",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181107"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "AIF182105",
+      "namaMatkul": "Pemograman Berorientasi Objek",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "AIF182007",
+      "namaMatkul": "Teknik Presentasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "AIF182109",
+      "namaMatkul": "Statistika untuk Komputasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "MKU170370/MKU170380",
+      "namaMatkul": "Agama Katolik/Fenomena Katolik",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "MKU170360",
+      "namaMatkul": "Estetika",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 3
+    },
+    {
+      "kodeMatkul": "AIF182100",
+      "namaMatkul": "Analisis Desain Berorientasi Objek",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182105"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182302",
+      "namaMatkul": "Manajemen Informasi dan Basis Data",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182101"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182204",
+      "namaMatkul": "Pemograman Berbasis Web",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182302"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182206",
+      "namaMatkul": "Sistem Operasi",
+      "prasyarat": {
+        "tempuh": [
+         "AIF182101"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182308",
+      "namaMatkul": "Pengantar Sistem Informasi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182302"
+        ],
+        "lulus": [
+          "AIF181105"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF183101",
+      "namaMatkul": "Desain dan Analisis Algoritma",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182103"
+        ],
+        "lulus": [
+          "AIF182101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183303",
+      "namaMatkul": "Rekayasa Perangkat Lunak",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182100"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183305",
+      "namaMatkul": "Manajemen Proyek",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183303"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183307",
+      "namaMatkul": "Teknologi Basis Data",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182302"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183209",
+      "namaMatkul": "Pemograman Aplikasi Bergerak",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182100"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183211",
+      "namaMatkul": "Jaringan Komputer",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182206"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "true",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183100",
+      "namaMatkul": "Pengantar Sistem Cerdas",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183101"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183002",
+      "namaMatkul": "Penulisan Ilmiah",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183104",
+      "namaMatkul": "Interaksi Manusia Komputer",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183106",
+      "namaMatkul": "Proyek Informatika",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183303"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 6,
+      "wajib": "true",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183308",
+      "namaMatkul": "Proyek Sistem Informasi 1",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183305"
+        ],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF184001",
+      "namaMatkul": "Skripsi 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183002",
+          "AIF182007"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184303",
+      "namaMatkul": "Proyek Sistem Informasi 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "true",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184005",
+      "namaMatkul": "Komputer Masyarakat",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184000",
+      "namaMatkul": "Etika Profesi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "true",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184002",
+      "namaMatkul": "Skripsi 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183002",
+          "AIF184001",
+          "AIF182007"
+        ],
+        "bersamaan": [
+          "AIF184001"
+        ],
+      },
+      "sks": 5,
+      "wajib": "true",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184004",
+      "namaMatkul": "Tugas Akhir",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183016",
+          "AIF182007"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 8,
+      "wajib": "true",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF182110",
+      "namaMatkul": "Pemrograman Fungsional",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181107"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182112",
+      "namaMatkul": "Pemodelan Formal",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181104"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182114",
+      "namaMatkul": "Pemograman Kompetitif 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182116",
+      "namaMatkul": "Dasar-dasar Java",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182105"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182118",
+      "namaMatkul": "Teori Bilangan",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181107"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182120",
+      "namaMatkul": "Teori Bahasa dan Kompilasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181104",
+          "AIF182103"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182122",
+      "namaMatkul": "Matematika Kombinatorial",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181107"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182124",
+      "namaMatkul": "Metode Numerik",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+         "AIF181103",
+         "AIF181100"
+       ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF182126",
+      "namaMatkul": "Pemograman Lojik",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181104"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 4
+    },
+    {
+      "kodeMatkul": "AIF183013",
+      "namaMatkul": "Kerja Praktek 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183015",
+      "namaMatkul": "Pendidikan Pengabdian kepada Masyarakat",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183117",
+      "namaMatkul": "Grafika Komputer",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181103"
+        ],
+        "lulus": [
+          "AIF182105"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183119",
+      "namaMatkul": "Keamanan Informasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181107"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183121",
+      "namaMatkul": "Pemograman Kompetitif 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182114"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183123",
+      "namaMatkul": "Topik Khusus Informatika 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183225",
+      "namaMatkul": "Administrasi Jaringan Komputer 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183227",
+      "namaMatkul": "Pengantar Teleomunikasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF3211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183229",
+      "namaMatkul": "Topik Khusus Sistem Terdistribusi 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183331",
+      "namaMatkul": "Sistem e-Commerce",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183333",
+      "namaMatkul": "Metodologi Pengembangan Sistem Informasi 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183335",
+      "namaMatkul": "Perencanaan Sistem Informasi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183337",
+      "namaMatkul": "Topik Khusus Sistem Informasi 1",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 5
+    },
+    {
+      "kodeMatkul": "AIF183010",
+      "namaMatkul": "Kerja Praktek 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },    
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183112",
+      "namaMatkul": "Pengujian Perangkat Lunak",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183303"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183114",
+      "namaMatkul": "Algoritma Kriptografi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183119"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183116",
+      "namaMatkul": "Komputasi Pararel",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183118",
+      "namaMatkul": "Komputasi Geometri",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183120",
+      "namaMatkul": "Perancangan Permainan Komputer",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183317"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },    
+      "sks": 2,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183122",
+      "namaMatkul": "Pemodelan Simulasi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182101"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183124",
+      "namaMatkul": "Grafika Komputer Lanjut",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181117"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183126",
+      "namaMatkul": "Pemrograman Kompetitif 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183121"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183128",
+      "namaMatkul": "Topik Khusus Informatika 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183230",
+      "namaMatkul": "Jaringan Komputer Lanjut",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183232",
+      "namaMatkul": "Pemograman Berbasis Web Lanjut",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182204",
+          "AIF182302"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183234",
+      "namaMatkul": "Sistem Aplikasi Telematika",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183236",
+      "namaMatkul": "Administrasai Jaringan Komputer 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183225"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183238",
+      "namaMatkul": "Topik Khusus Sistem Terdistribusi 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183340",
+      "namaMatkul": "Metodologi Pengembangan Sistem Informasi 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183331"
+        ],
+       "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF1833442",
+      "namaMatkul": "Kewirausahaan Berbasis Teknologi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "Sudah lulus 90 sks"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183446",
+      "namaMatkul": "Topik Khusus Sistem Informasi 2",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF183348",
+      "namaMatkul": "Sistem Kecerdasan Bisnis",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182302"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 6
+    },
+    {
+      "kodeMatkul": "AIF184007",
+      "namaMatkul": "Kerja Praktek 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 4,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184109",
+      "namaMatkul": "Pembelajaran Mesin",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184115",
+      "namaMatkul": "Pencarian Temu Kembali Informasi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181103"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF14119",
+      "namaMatkul": "Kecerdasan Buatan untuk Permainan Komputer",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184121",
+      "namaMatkul": "Metodi Optimisasi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183101"
+        ],
+        "lulus": [
+          "AIF183100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184123",
+      "namaMatkul": "Teknologi Mesin Pencari",
+      "prasyarat": {
+        "tempuh": [
+          "AIF181106"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184127",
+      "namaMatkul": "Pengolahan Bahasa Alami",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184129",
+      "namaMatkul": "Topik Khusus Informatika 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184129",
+      "namaMatkul": "Administrasi Jaringan Komputer 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183234"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184231",
+      "namaMatkul": "Jaringan Nirkabel",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184233",
+      "namaMatkul": "Teknologi Middleware",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184235",
+      "namaMatkul": "Layanan Berbasis Web",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182204",
+          "AIF182302",
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184237",
+      "namaMatkul": "Topik Khusus Sistem Terdistribusi 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184339",
+      "namaMatkul": "Pengendalian dan Audit Teknologi Informasi",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182308"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184341",
+      "namaMatkul": "Penambangan Data",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184343",
+      "namaMatkul": "Topik Khusus Sistem Informasi 3",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184345",
+      "namaMatkul": "Teknologi Big Data dan Cloud Computing",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183307",
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 7
+    },
+    {
+      "kodeMatkul": "AIF184104",
+      "namaMatkul": "Bio-Inspired Computing",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184106",
+      "namaMatkul": "Pemrograman Permainan Komputer",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184108",
+      "namaMatkul": "Kompresi Data",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184110",
+      "namaMatkul": "Pengolahan Citra",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF181106"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184112",
+      "namaMatkul": "Pemrosesan Data Geografis",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182101"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184114",
+      "namaMatkul": "Verifikasi Formal",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF184117"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184116",
+      "namaMatkul": "Sistem Multi Agen",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182206",
+          "AIF183100"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184118",
+      "namaMatkul": "Pemrograman Sistem",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182206"
+        ],
+        "lulus": [
+          "AIF181100"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184120",
+      "namaMatkul": "Topik Khusus Informatika 4",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184222",
+      "namaMatkul": "Administrasi Jaringan Komputer 4",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF184129"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184224",
+      "namaMatkul": "Sistem Terdistribusi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184226",
+      "namaMatkul": "Teknologi Multimedia",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183104"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184228",
+      "namaMatkul": "Pemrograman Jaringan",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF183211"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184230",
+      "namaMatkul": "Keamanan Jaringan",
+      "prasyarat": {
+        "tempuh": [
+          "AIF183119"
+       ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184232",
+      "namaMatkul": "Topik Khusus Sistem Terdistribusi",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184334",
+      "namaMatkul": "Sistem Informasi Skala Besar",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184336",
+      "namaMatkul": "Sistem e-Government",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184338",
+      "namaMatkul": "Manajemen Proses Bisnis",
+      "prasyarat": {
+        "tempuh": [
+          "AIF182105",
+          "AIF182204"
+        ],  
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184340",
+      "namaMatkul": "Sistem Informasi Geografis",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [
+          "AIF182308"
+        ],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184342",
+      "namaMatkul": "Topik Khusus Sistem Informasi 4",
+      "prasyarat": {
+        "tempuh": [],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 2,
+      "wajib": "false",
+      "semester": 8
+    },
+    {
+      "kodeMatkul": "AIF184344",
+      "namaMatkul": "Analisis Big Data",
+      "prasyarat": {
+        "tempuh": [
+          "AIF184341"
+        ],
+        "lulus": [],
+        "bersamaan": [],
+      },
+      "sks": 3,
+      "wajib": "false",
+      "semester": 8
+    }
+  ]
