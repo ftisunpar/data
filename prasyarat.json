@@ -6,10 +6,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -19,10 +19,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -32,10 +32,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -45,10 +45,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -58,10 +58,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -71,10 +71,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -84,10 +84,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 1
   },
   {
@@ -99,12 +99,12 @@
         "AIF181101"
       ],
       "bersamaan": [],
-      "angkatan" : [
+      "berlakuAngkatan" : [
         "2018"
       ]
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
@@ -114,10 +114,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
@@ -127,10 +127,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
@@ -140,36 +140,36 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
-    "kode": "MKU170240",
+    "kode": "MKU180240",
     "nama": "Etika",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
-    "kode": "MKU170260",
+    "kode": "MKU180360",
     "nama": "Estetika",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 2
   },
   {
@@ -181,10 +181,10 @@
         "AIF181100"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
@@ -196,10 +196,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
@@ -211,10 +211,10 @@
         "AIF181100"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
@@ -226,7 +226,7 @@
       "bersamaan": []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
@@ -238,33 +238,45 @@
       "bersamaan": []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
-    "kode": "MKU170370/MKU170380",
-    "nama": "Agama Katolik/Fenomena Katolik",
+    "kode": "MKU180370",
+    "nama": "Agama Katolik",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
+    "semester": 3
+  },{
+    "kode": "MKU180380",
+    "nama": "Fenomena Katolik",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 2,
+    "wajib": true,
     "semester": 3
   },
   {
-    "kode": "MKU170350",
+    "kode": "MKU180250",
     "nama": "Pancasila",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 3
   },
   {
@@ -276,10 +288,10 @@
         "AIF182105"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -291,10 +303,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -308,10 +320,10 @@
       "bersamaan": [
         "AIF182302"
       ],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -325,10 +337,10 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -344,10 +356,10 @@
       "bersamaan": [
         "AIF182302"
       ],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -357,10 +369,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 4
   },
   {
@@ -372,10 +384,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -387,10 +399,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -404,10 +416,10 @@
       "bersamaan": [
         "AIF183303"
       ],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -420,10 +432,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -436,10 +448,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -449,10 +461,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 5
   },
   {
@@ -464,10 +476,10 @@
         "AIF182302"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 6
   },
   {
@@ -477,10 +489,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 6
   },
   {
@@ -492,10 +504,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 6
   },
   {
@@ -510,7 +522,7 @@
       "bersamaan": []
     },
     "sks": 6,
-    "wajib": "true",
+    "wajib": true,
     "semester": 6
   },
   {
@@ -526,7 +538,7 @@
       "bersamaan": []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 6
   },
   {
@@ -536,14 +548,13 @@
       "tempuh": [],
       "lulus": [
         "AIF183002",
-        "AIF182007",
-        "Sudah lulus 108 sks"
+        "AIF182007"
       ],
       "bersamaan": [],
-      "angkatan" : ["2017"]
+      "berlakuAngkatan" : ["2017"]
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 7
   },
   {
@@ -555,10 +566,10 @@
         "AIF183308"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "true",
+    "wajib": true,
     "semester": 7
   },
   {
@@ -568,10 +579,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 7
   },
   {
@@ -581,10 +592,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "true",
+    "wajib": true,
     "semester": 8
   },
   {
@@ -595,16 +606,15 @@
       "lulus": [
         "AIF183002",
         "AIF184001",
-        "AIF182007",
-        "Sudah lulus 124 sks"
+        "AIF182007"
       ],
       "bersamaan": [
         "AIF184001"
       ],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 5,
-    "wajib": "true",
+    "wajib": true,
     "semester": 8
   },
   {
@@ -614,14 +624,13 @@
       "tempuh": [],
       "lulus": [
         "AIF183002",
-        "AIF182007",
-        "Sudah lulus 124 sks"
+        "AIF182007"
       ],
       "bersamaan": [],
-      "angkatan" : ["2017"]
+      "berlakuAngkatan" : ["2017"]
     },
     "sks": 8,
-    "wajib": "true",
+    "wajib": true,
     "semester": 8
   },
   {
@@ -633,10 +642,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -648,10 +657,10 @@
         "AIF181104"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -663,10 +672,10 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 3
   },
   {
@@ -678,10 +687,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -693,10 +702,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -709,10 +718,10 @@
         "AIF182103"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -724,10 +733,10 @@
         "AIF181107"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -740,10 +749,10 @@
        "AIF181100"
      ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -755,10 +764,10 @@
         "AIF181104"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -768,10 +777,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -781,10 +790,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -798,10 +807,10 @@
         "AIF182105"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -813,10 +822,10 @@
         "AIF181107"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -828,10 +837,10 @@
         "AIF182111"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 4
   },
   {
@@ -841,10 +850,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -854,10 +863,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -869,10 +878,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -882,10 +891,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -897,10 +906,10 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -912,24 +921,10 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
-    "semester": 5
-  },
-  {
-    "kode": "AIF183335",
-    "nama": "Perencanaan Sistem Informasi",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF182308"
-      ],
-      "bersamaan": []
-    },
-    "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -941,7 +936,7 @@
       "bersamaan": []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -953,10 +948,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -966,10 +961,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },    
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -981,10 +976,10 @@
         "AIF183303"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -996,10 +991,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1011,10 +1006,10 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1026,10 +1021,10 @@
         "AIF182210"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1041,10 +1036,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },    
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1056,10 +1051,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1068,13 +1063,13 @@
     "prasyarat": {
       "tempuh": [],
       "lulus": [
-        "AIF181117"
+        "AIF183117"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1083,13 +1078,13 @@
     "prasyarat": {
       "tempuh": [],
       "lulus": [
-        "AIF183112"
+        "AIF182112"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 5
   },
   {
@@ -1099,10 +1094,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1115,10 +1110,10 @@
         "AIF182302"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1130,10 +1125,10 @@
         "AIF182210"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1145,10 +1140,10 @@
         "AIF183225"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1158,10 +1153,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1173,10 +1168,10 @@
         "AIF183333"
       ],
      "bersamaan": [],
-     "angkatan" : []
+     "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1184,14 +1179,12 @@
     "nama": "Kewirausahaan Berbasis Teknologi",
     "prasyarat": {
       "tempuh": [],
-      "lulus": [
-        "Sudah lulus 90 sks"
-      ],
+      "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1201,10 +1194,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1216,10 +1209,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 6
   },
   {
@@ -1229,10 +1222,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 4,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1244,10 +1237,10 @@
         "AIF183107"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1259,26 +1252,26 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
-    "kode": "AIF14119",
+    "kode": "AIF184119",
     "nama": "Perancangan Permainan Komputer",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
-        "AIF183100",
+        "AIF182100",
         "AIF183120"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1286,16 +1279,14 @@
     "nama": "Metodi Optimisasi",
     "prasyarat": {
       "tempuh": [
-        "AIF1831017"
+        "AIF183107"
       ],
-      "lulus": [
-        "AIF183101"
-      ],
+      "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1307,10 +1298,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1322,10 +1313,10 @@
         "AIF183107"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1335,10 +1326,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1350,10 +1341,10 @@
         "AIF183236"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1365,10 +1356,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1380,10 +1371,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1397,10 +1388,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1410,10 +1401,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1425,10 +1416,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1440,10 +1431,10 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1453,10 +1444,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1469,10 +1460,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1484,10 +1475,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 7
   },
   {
@@ -1497,10 +1488,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 5,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1512,10 +1503,10 @@
         "AIF182106"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1527,10 +1518,10 @@
         "AIF184119"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1542,10 +1533,10 @@
         "AIF182106"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1557,10 +1548,10 @@
         "AIF181106"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1572,10 +1563,10 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1587,10 +1578,10 @@
         "AIF182112"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1603,10 +1594,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1620,10 +1611,10 @@
         "AIF181100"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1633,10 +1624,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1648,10 +1639,10 @@
         "AIF184129"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1663,10 +1654,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1678,10 +1669,10 @@
         "AIF183111"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1693,10 +1684,10 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1708,10 +1699,10 @@
      ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1721,10 +1712,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1736,10 +1727,10 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1749,10 +1740,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1765,10 +1756,10 @@
       ],  
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1780,10 +1771,10 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1793,10 +1784,10 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 2,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   },
   {
@@ -1808,10 +1799,10 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "angkatan" : []
+      "berlakuAngkatan" : []
     },
     "sks": 3,
-    "wajib": "false",
+    "wajib": false,
     "semester": 8
   }
 ]
