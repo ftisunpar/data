@@ -1133,7 +1133,7 @@
   },
   {
     "kode": "AIF183236",
-    "nama": "Sertifikasi Administrasai Jaringan Komputer 2",
+    "nama": "Sertifikasi Administrasi Jaringan Komputer 2",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
@@ -1276,7 +1276,7 @@
   },
   {
     "kode": "AIF184121",
-    "nama": "Metodi Optimisasi",
+    "nama": "Metode Optimisasi",
     "prasyarat": {
       "tempuh": [
         "AIF183107"
