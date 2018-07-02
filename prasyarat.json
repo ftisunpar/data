@@ -1,7 +1,7 @@
 [
   {
     "kode": "AIF181101",
-    "nama": "Computational Thinking",
+    "nama": "Pemodelan untuk Komputasi",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
@@ -174,7 +174,7 @@
   },
   {
     "kode": "AIF182101",
-    "nama": "Algoritma Struktur Data",
+    "nama": "Algoritma dan Struktur Data",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
@@ -255,7 +255,7 @@
     "semester": 3
   },{
     "kode": "MKU180380",
-    "nama": "Fenomena Katolik",
+    "nama": "Fenomenologi Agama",
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
@@ -634,36 +634,6 @@
     "semester": 8
   },
   {
-    "kode": "AIF183141",
-    "nama": "Pemrograman Fungsional",
-    "prasyarat": {
-      "tempuh": [
-        "AIF181107"
-      ],
-      "lulus": [],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 2,
-    "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183143",
-    "nama": "Pemodelan Formal",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF181104"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 5
-  },
-  {
     "kode": "AIF182111",
     "nama": "Pemrograman Kompetitif 1",
     "prasyarat": {
@@ -679,96 +649,19 @@
     "semester": 3
   },
   {
-    "kode": "AIF183147",
-    "nama": "Sertifikasi Dasar-dasar Java",
-    "prasyarat": {
-      "tempuh": [
-        "AIF182105"
-      ],
-      "lulus": [],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 2,
-    "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183149",
-    "nama": "Teori Bilangan",
-    "prasyarat": {
-      "tempuh": [
-        "AIF181107"
-      ],
-      "lulus": [],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183151",
-    "nama": "Teori Bahasa dan Kompilasi",
+    "kode": "AIF182112",
+    "nama": "Pemrograman Kompetitif 2",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
-        "AIF181104",
-        "AIF182103"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 2,
-    "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183153",
-    "nama": "Matematika Kombinatorial",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF181107"
+        "AIF182111"
       ],
       "bersamaan": [],
       "berlakuAngkatan" : []
     },
     "sks": 3,
     "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183155",
-    "nama": "Metode Numerik",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-       "AIF181103",
-       "AIF181100"
-     ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 5
-  },
-  {
-    "kode": "AIF183157",
-    "nama": "Pemrograman Lojik",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF181104"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 2,
-    "wajib": false,
-    "semester": 5
+    "semester": 4
   },
   {
     "kode": "AIF183013",
@@ -829,19 +722,19 @@
     "semester": 5
   },
   {
-    "kode": "AIF182112",
-    "nama": "Pemrograman Kompetitif 2",
+    "kode": "AIF183121",
+    "nama": "Pemrograman Kompetitif 3",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
-        "AIF182111"
+        "AIF182112"
       ],
       "bersamaan": [],
       "berlakuAngkatan" : []
     },
     "sks": 3,
     "wajib": false,
-    "semester": 4
+    "semester": 5
   },
   {
     "kode": "AIF183123",
@@ -871,7 +764,7 @@
   },
   {
     "kode": "AIF183227",
-    "nama": "Pengantar Teleomunikasi",
+    "nama": "Pengantar Telekomunikasi",
     "prasyarat": {
       "tempuh": [
         "AIF182210"
@@ -955,6 +848,113 @@
     "semester": 5
   },
   {
+    "kode": "AIF183141",
+    "nama": "Pemrograman Fungsional",
+    "prasyarat": {
+      "tempuh": [
+        "AIF181107"
+      ],
+      "lulus": [],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 2,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183143",
+    "nama": "Pemodelan Formal",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [
+        "AIF181104"
+      ],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 3,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183147",
+    "nama": "Sertifikasi Dasar-dasar Java",
+    "prasyarat": {
+      "tempuh": [
+        "AIF182105"
+      ],
+      "lulus": [],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 2,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183149",
+    "nama": "Teori Bilangan",
+    "prasyarat": {
+      "tempuh": [
+        "AIF181107"
+      ],
+      "lulus": [],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 3,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183151",
+    "nama": "Teori Bahasa dan Kompilasi",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [
+        "AIF181104",
+        "AIF182103"
+      ],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 2,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183155",
+    "nama": "Metode Numerik",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [
+       "AIF181103",
+       "AIF181100"
+     ],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 3,
+    "wajib": false,
+    "semester": 5
+  },
+  {
+    "kode": "AIF183157",
+    "nama": "Pemrograman Lojik",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [
+        "AIF181104"
+      ],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 2,
+    "wajib": false,
+    "semester": 5
+  },
+  {
     "kode": "AIF183010",
     "nama": "Kerja Praktek 2",
     "prasyarat": {
@@ -999,7 +999,7 @@
   },
   {
     "kode": "AIF183116",
-    "nama": "Komputasi Pararel",
+    "nama": "Komputasi Paralel",
     "prasyarat": {
       "tempuh": [],
       "lulus": [
@@ -1073,21 +1073,6 @@
     "semester": 6
   },
   {
-    "kode": "AIF183121",
-    "nama": "Pemrograman Kompetitif 3",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF182112"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 5
-  },
-  {
     "kode": "AIF183128",
     "nama": "Topik Khusus Informatika 2",
     "prasyarat": {
@@ -1108,21 +1093,6 @@
       "lulus": [
         "AIF182204",
         "AIF182302"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 6
-  },
-  {
-    "kode": "AIF183250",
-    "nama": "Sistem Aplikasi Telematika",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF182210"
       ],
       "bersamaan": [],
       "berlakuAngkatan" : []
@@ -1208,6 +1178,21 @@
         "AIF182302"
       ],
       "lulus": [],
+      "bersamaan": [],
+      "berlakuAngkatan" : []
+    },
+    "sks": 3,
+    "wajib": false,
+    "semester": 6
+  },
+  {
+    "kode": "AIF183250",
+    "nama": "Sistem Aplikasi Telematika",
+    "prasyarat": {
+      "tempuh": [],
+      "lulus": [
+        "AIF182210"
+      ],
       "bersamaan": [],
       "berlakuAngkatan" : []
     },
@@ -1557,21 +1542,6 @@
     "semester": 8
   },
   {
-    "kode": "AIF184112",
-    "nama": "Pemrosesan Data Geografis",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF182101"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 8
-  },
-  {
     "kode": "AIF184114",
     "nama": "Verifikasi Formal",
     "prasyarat": {
@@ -1595,23 +1565,6 @@
         "AIF183107"
       ],
       "lulus": [],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 2,
-    "wajib": false,
-    "semester": 8
-  },
-  {
-    "kode": "AIF184118",
-    "nama": "Pemrograman Sistem",
-    "prasyarat": {
-      "tempuh": [
-        "AIF183201"
-      ],
-      "lulus": [
-        "AIF181100"
-      ],
       "bersamaan": [],
       "berlakuAngkatan" : []
     },
@@ -1662,22 +1615,7 @@
     "wajib": false,
     "semester": 8
   },
-  {
-    "kode": "AIF184226",
-    "nama": "Teknologi Multimedia",
-    "prasyarat": {
-      "tempuh": [],
-      "lulus": [
-        "AIF183111"
-      ],
-      "bersamaan": [],
-      "berlakuAngkatan" : []
-    },
-    "sks": 3,
-    "wajib": false,
-    "semester": 8
-  },
-  {
+    {
     "kode": "AIF184228",
     "nama": "Pemrograman Jaringan",
     "prasyarat": {
