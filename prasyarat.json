@@ -6,7 +6,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -19,7 +19,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": true,
@@ -32,7 +32,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -45,7 +45,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -58,7 +58,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -71,7 +71,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -84,7 +84,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -99,9 +99,7 @@
         "AIF181101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : [
-        "2018"
-      ]
+      "berlakuAngkatan" : 2018
     },
     "sks": 4,
     "wajib": true,
@@ -114,7 +112,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": true,
@@ -127,7 +125,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -140,7 +138,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -153,7 +151,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -166,7 +164,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -181,7 +179,7 @@
         "AIF181100"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -196,7 +194,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": true,
@@ -211,7 +209,7 @@
         "AIF181100"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -223,7 +221,8 @@
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
-      "bersamaan": []
+      "bersamaan": [],
+      "berlakuAngkatan": null
     },
     "sks": 2,
     "wajib": true,
@@ -235,7 +234,8 @@
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
-      "bersamaan": []
+      "bersamaan": [],
+      "berlakuAngkatan": null
     },
     "sks": 3,
     "wajib": true,
@@ -248,7 +248,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -260,7 +260,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -273,7 +273,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -288,7 +288,7 @@
         "AIF182105"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": true,
@@ -303,7 +303,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": true,
@@ -320,7 +320,7 @@
       "bersamaan": [
         "AIF182302"
       ],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -337,7 +337,7 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -356,7 +356,7 @@
       "bersamaan": [
         "AIF182302"
       ],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -369,7 +369,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -384,7 +384,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -399,7 +399,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -416,7 +416,7 @@
       "bersamaan": [
         "AIF183303"
       ],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -432,7 +432,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -448,7 +448,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -461,7 +461,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -476,7 +476,7 @@
         "AIF182302"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -489,7 +489,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -504,7 +504,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -519,7 +519,8 @@
         "AIF183305"
       ],
       "lulus": [],
-      "bersamaan": []
+      "bersamaan": [],
+      "berlakuAngkatan" : null
     },
     "sks": 6,
     "wajib": true,
@@ -535,7 +536,8 @@
       "lulus": [
         "AIF182308"
       ],
-      "bersamaan": []
+      "bersamaan": [],
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -551,7 +553,7 @@
         "AIF182007"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : ["2017"]
+      "berlakuAngkatan" : 2017
     },
     "sks": 3,
     "wajib": true,
@@ -566,7 +568,7 @@
         "AIF183308"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": true,
@@ -579,7 +581,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -592,7 +594,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": true,
@@ -611,7 +613,7 @@
       "bersamaan": [
         "AIF184001"
       ],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 5,
     "wajib": true,
@@ -627,7 +629,7 @@
         "AIF182007"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : ["2017"]
+      "berlakuAngkatan" : 2017
     },
     "sks": 8,
     "wajib": true,
@@ -642,7 +644,7 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -657,7 +659,7 @@
         "AIF182111"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -670,7 +672,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -683,7 +685,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -700,7 +702,7 @@
         "AIF182105"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -715,7 +717,7 @@
         "AIF181107"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -730,7 +732,7 @@
         "AIF182112"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -743,7 +745,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -756,7 +758,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -771,7 +773,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -784,7 +786,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -799,7 +801,7 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -814,7 +816,7 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -826,7 +828,8 @@
     "prasyarat": {
       "tempuh": [],
       "lulus": [],
-      "bersamaan": []
+      "bersamaan": [],
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -841,7 +844,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -856,7 +859,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -871,7 +874,7 @@
         "AIF181104"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -886,7 +889,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -901,7 +904,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -917,7 +920,7 @@
         "AIF182103"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -933,7 +936,7 @@
        "AIF181100"
      ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -948,7 +951,7 @@
         "AIF181104"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -961,7 +964,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },    
     "sks": 3,
     "wajib": false,
@@ -976,7 +979,7 @@
         "AIF183303"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -991,7 +994,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1006,7 +1009,7 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1021,7 +1024,7 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1036,7 +1039,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },    
     "sks": 2,
     "wajib": false,
@@ -1051,7 +1054,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1066,7 +1069,7 @@
         "AIF183117"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1079,7 +1082,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1095,7 +1098,7 @@
         "AIF182302"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1110,7 +1113,7 @@
         "AIF183225"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1123,7 +1126,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1138,7 +1141,7 @@
         "AIF183333"
       ],
      "bersamaan": [],
-     "berlakuAngkatan" : []
+     "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1151,7 +1154,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1164,7 +1167,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1179,7 +1182,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1194,7 +1197,7 @@
         "AIF182210"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1207,7 +1210,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 4,
     "wajib": false,
@@ -1222,7 +1225,7 @@
         "AIF183107"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1237,7 +1240,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1253,7 +1256,7 @@
         "AIF183120"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1268,7 +1271,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1283,7 +1286,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1298,7 +1301,7 @@
         "AIF183107"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1311,7 +1314,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1326,7 +1329,7 @@
         "AIF183236"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1341,7 +1344,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1356,7 +1359,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1373,7 +1376,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1386,7 +1389,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1401,7 +1404,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1416,7 +1419,7 @@
         "AIF182101"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1429,7 +1432,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1445,7 +1448,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1460,7 +1463,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1473,7 +1476,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 5,
     "wajib": false,
@@ -1488,7 +1491,7 @@
         "AIF182106"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1503,7 +1506,7 @@
         "AIF184119"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1518,7 +1521,7 @@
         "AIF182106"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1533,7 +1536,7 @@
         "AIF181106"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1548,7 +1551,7 @@
         "AIF182112"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1564,7 +1567,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1577,7 +1580,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1592,7 +1595,7 @@
         "AIF184129"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1607,7 +1610,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1622,7 +1625,7 @@
         "AIF183204"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1637,7 +1640,7 @@
      ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1650,7 +1653,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1665,7 +1668,7 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1678,7 +1681,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1694,7 +1697,7 @@
       ],  
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
@@ -1709,7 +1712,7 @@
         "AIF182308"
       ],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1722,7 +1725,7 @@
       "tempuh": [],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 2,
     "wajib": false,
@@ -1737,7 +1740,7 @@
       ],
       "lulus": [],
       "bersamaan": [],
-      "berlakuAngkatan" : []
+      "berlakuAngkatan" : null
     },
     "sks": 3,
     "wajib": false,
