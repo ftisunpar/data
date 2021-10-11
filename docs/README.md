@@ -7,7 +7,7 @@ Laman ini digunakan untuk mendokumentasikan struktur data dari Open Data FTIS. D
   - [Prasyarat](#Prasyarat)
 
 ## Akses Publik
-Berdasarkan [isu ini](https://github.com/ftisunpar/data/issues/1), anda dapat mengkases open data tersebut pada[https://ftisunpar.github.io/data/prasyarat.json](https://ftisunpar.github.io/data/prasyarat.json).
+Berdasarkan [isu ini](https://github.com/ftisunpar/data/issues/1), anda dapat mengkases open data tersebut pada [https://ftisunpar.github.io/data/prasyarat.json](https://ftisunpar.github.io/data/prasyarat.json).
 
 ## Detil Endpoint
 Endpoint di definisikan sebagai url yang mengikuti setelah basis url `https://ftisunpar.github.io/data/`. 
@@ -15,7 +15,7 @@ Endpoint di definisikan sebagai url yang mengikuti setelah basis url `https://ft
 Sebagai contoh endpoint `prasyarat.json` memiliki alamat url lengkap `https://ftisunpar.github.io/data/prasyarat.json`.
 
 ### `prasyarat.json`
-`Prasyarat.json` memiliki informasi tentang seluruh matakuliah, jumlah SKS, posisi semester, serta prasyarat yang ada. Bentuk datanya adalah array dari matakuliah.
+`prasyarat.json` memiliki informasi tentang seluruh matakuliah, jumlah SKS, posisi semester, serta prasyarat yang ada. Bentuk datanya adalah array dari matakuliah.
 
 Setiap struktur matakuliah memiliki properties sebagai berikut:
 - `kode` (String)
@@ -60,3 +60,14 @@ Mahasiswa diharuskan untuk lulus mata kuliah yang disebutkan.
 Mata kuliah tersebut harus di ambil secara bersamaan dengan mata kuliah yang disebutkan (butuh informasi lagi).
 ##### Berlaku Angkatan
 Property ini mulai berlaku karena pergantian kurikulum. Prasyarat ini memiliki maksud bahwa matakuliah ini mulai berlaku semenjak angkatan x.
+
+### `singkatan.csv`
+
+Daftar singkatan-singkatan yang digunakan di fakultas ini, terutama pada
+program studi Informatika, di mana banyak singkatan-singkatan kriptik yang
+mengintimidasi mereka yang tidak mengetahui kepanjangannya.
+
+Dua kolom tersedia:
+
+- Singkatan: singkatannya
+- Kepanjangan: kepanjangannya
